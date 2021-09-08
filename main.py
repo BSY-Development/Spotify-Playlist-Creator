@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-# Provide your ID and Secret
+# Provide your ID and Secret you can get one here after login and click on "Create an App" button:  https://developer.spotify.com/dashboard/
 MY_ID = ''
 MY_SECRET = ''
 SPOTIPY_REDIRECT_URI = 'https://example.com'
